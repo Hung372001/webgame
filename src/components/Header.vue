@@ -28,11 +28,8 @@ export default {
         ><img
             alt="Shrapnel logo"
             class="h-full m-auto"
-            data-nimg="1"
-            decoding="async"
-            height="50"
-            loading="lazy"
-            src="https://www.shrapnel.com/_next/static/media/shrapnel_logoH-white.6c00ffda.svg"
+
+            src="/Logo.svg"
             style="color: transparent"
             width="150"
         /></router-link>
@@ -56,7 +53,7 @@ export default {
                   class="cursor-pointer glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-extrabold mx-5 whitespace-nowrap block phone:hidden top-1.5 hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                   data-content="Sign In"
               >
-                <span class="">Sign In</span>
+                <span class=""> CONNECT WALLET</span>
               </span>
             </div>
           </li>
@@ -176,7 +173,39 @@ export default {
                             data-content="Comm Center"
                             href="/comm-center"
                             target=""
-                        ><span class="">Comm Center</span></a
+                        ><span class=""> X </span></a
+                        >
+                      </div>
+                    </li>
+                  </div>
+                  <div>
+                    <li
+                        class="m-auto max-h-[200px] py-1 mx-4"
+                        style="list-style-type: none"
+                    >
+                      <div class="my-2">
+                        <a
+                            class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
+                            data-content="Comm Center"
+                            href="/comm-center"
+                            target=""
+                        ><span class=""> Telegram </span></a
+                        >
+                      </div>
+                    </li>
+                  </div>
+                  <div>
+                    <li
+                        class="m-auto max-h-[200px] py-1 mx-4"
+                        style="list-style-type: none"
+                    >
+                      <div class="my-2">
+                        <a
+                            class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
+                            data-content="Comm Center"
+                            href="/comm-center"
+                            target=""
+                        ><span class=""> Discord Channel </span></a
                         >
                       </div>
                     </li>
@@ -208,36 +237,6 @@ export default {
                         style="list-style-type: none"
                     >
                       <div class="my-2">
-                        <a
-                            class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
-                            data-content="News"
-                            href="https://medium.com/@playshrapnel"
-                            target="_blank rel='noreferrer'"
-                        ><span class="">News</span
-                        ><span class="p-1"
-                        ><img
-                            alt="external"
-                            data-nimg="1"
-                            decoding="async"
-                            height="16"
-                            loading="lazy"
-                            src="https://www.shrapnel.com/_next/static/media/icon_external_link_white.3abf2a99.svg"
-                            style="
-                                color: transparent;
-                                display: inline;
-                                vertical-align: text-top;
-                              "
-                            width="16"/></span
-                        ></a>
-                      </div>
-                    </li>
-                  </div>
-                  <div>
-                    <li
-                        class="m-auto max-h-[200px] py-1 mx-4"
-                        style="list-style-type: none"
-                    >
-                      <div class="my-2">
                         <router-link
                             class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                             to="/studio"
@@ -257,22 +256,7 @@ export default {
                             class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                             to="/team"
                             target=""
-                        ><span class="">AAA Team</span></router-link
-                        >
-                      </div>
-                    </li>
-                  </div>
-                  <div>
-                    <li
-                        class="m-auto max-h-[200px] py-1 mx-4"
-                        style="list-style-type: none"
-                    >
-                      <div class="my-2">
-                        <router-link
-                            class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
-                            to="/partners"
-                            target=""
-                        ><span class="">Partners</span></router-link
+                        ><span class="">Rocket Team</span></router-link
                         >
                       </div>
                     </li>

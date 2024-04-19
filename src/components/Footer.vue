@@ -119,68 +119,8 @@ export default {
                         data-content="Shrap Token"
                         target=""
                         to="/shrap-token"
-                        ><span class="">Shrap Token</span></router-link
+                        ><span class="">RP Token</span></router-link
                       >
-                    </div>
-                  </li>
-                </div>
-                <div>
-                  <li
-                    class="m-auto max-h-[200px]"
-                    style="list-style-type: none"
-                  >
-                    <div class="my-2">
-                      <router-link
-                        to="https://go.radon.gg/wp"
-                        class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-medium hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
-                        data-content="White Paper"
-                        target="_blank rel='noreferrer'"
-                        ><span class="">White Paper</span
-                        ><span class="p-1"
-                          ><img
-                            alt="external"
-                            loading="lazy"
-                            width="16"
-                            height="16"
-                            decoding="async"
-                            data-nimg="1"
-                            src="https://www.shrapnel.com/_next/static/media/icon_external_link_white.3abf2a99.svg"
-                            style="
-                              color: transparent;
-                              display: inline;
-                              vertical-align: text-top;
-                            " /></span
-                      ></router-link>
-                    </div>
-                  </li>
-                </div>
-                <div>
-                  <li
-                    class="m-auto max-h-[200px]"
-                    style="list-style-type: none"
-                  >
-                    <div class="my-2">
-                      <router-link
-                        to="https://www.shrapnel.com/Shrapnel-Economy-Paper.pdf"
-                        class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-medium hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
-                        data-content="Econ Paper"
-                        target="_blank rel='noreferrer'"
-                        ><span class="">Econ Paper</span
-                        ><span class="p-1"
-                          ><img
-                            alt="external"
-                            loading="lazy"
-                            width="16"
-                            height="16"
-                            decoding="async"
-                            data-nimg="1"
-                            src="https://www.shrapnel.com/_next/static/media/icon_external_link_white.3abf2a99.svg"
-                            style="
-                              color: transparent;
-                              display: inline;
-                              vertical-align: text-top;
-                            " /></span
-                      ></router-link>
                     </div>
                   </li>
                 </div>
@@ -556,9 +496,8 @@ export default {
                         <router-link
                           class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-md laptop-text-base font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                           data-content="AAA Team"
-                          target=""
                           to="/team"
-                          ><span class="">AAA Team</span></router-link
+                          ><span class="">Rocket Team</span></router-link
                         >
                       </div>
                     </li>

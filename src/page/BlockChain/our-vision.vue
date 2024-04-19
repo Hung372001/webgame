@@ -40,11 +40,7 @@ export default {
                   >
                     <div class="">
                       <p>
-                        We've always wanted to build a competitive multiplayer
-                        FPS that players could mod and make their own. Now,
-                        blockchain makes it possible by providing an
-                        approachable way to be rewarded for spending time doing
-                        what they love.
+                        Our lifelong goal has been to create a player-driven, competitive multiplayer racing game. The advent of blockchain technology has leveled the playing field, making it feasible for people to earn money while engaging in their passion projects.
                       </p>
                     </div>
                   </div>
@@ -581,7 +577,7 @@ export default {
                   <a
                     class="text-bold text-lg mt-5 uppercase max-w-sm"
                     target="_blank"
-                    href="https://go.radon.gg/wp"
+                    href="https://rocket-racer.gitbook.io/wiki-rocket-racer/"
                     rel="noreferrer"
                     ><div
                       data-name="ButtonCustom"

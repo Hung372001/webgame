@@ -1234,7 +1234,7 @@ export default {
                   data-name="Heading"
                   class="text-6xl font-black mb-6 uppercase tablet:w-full tablet:text-[2rem] phone:mb-2"
                 >
-                  Shrapnel Callsigns
+                  RACER CALLSIGNS
                 </h2>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
                   <div
@@ -1242,12 +1242,7 @@ export default {
                     class="text-[1.6rem] font-medium tablet:leading-[1.18] tablet:text-base my-4 mx-auto phone:my-2"
                   >
                     <div class="">
-                      A Shrapnel Callsign is the public name that uniquely
-                      identifies YOU – whether you are playing, creating or
-                      curating. Early Callsign creators receive exclusive
-                      in-game weapon skins and other benefits. Use SHRAP tokens
-                      to create as many Callsigns as you want, and list them in
-                      the Marketplace when it launches.
+                      Your public identity in any online activity, whether it playing, creating, or curating, is defined by your racer callsign. Special in-game Car skins and other perks are available to early Callsign producers. Make an unlimited number of Callsigns with RG tokens and then put them up for sale in the Marketplace once it becomes live.
                     </div>
                   </div>
                 </div>
@@ -1481,7 +1476,7 @@ export default {
                   data-name="Heading"
                   class="text-6xl font-black mb-6 uppercase tablet:w-full tablet:text-[2rem] phone:mb-2"
                 >
-                  SURVIVE &amp; EXTRACT
+                  RACE AND EARN
                 </h2>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
                   <div
@@ -1489,12 +1484,8 @@ export default {
                     class="text-[1.6rem] font-medium tablet:leading-[1.18] tablet:text-base my-4 mx-auto phone:my-2"
                   >
                     <div class="">
-                      SHRAPNEL is an intensely competitive AAA extraction
-                      shooter, launching on PC in 2025 (with early access in
-                      2024). As a MEF Operator, you will experience a
-                      not-too-distant future where a mysterious substance has
-                      changed the balance of power as we know it. Your mission:
-                      extract … or die trying.
+
+                      Coming to PC in 2025 (early access in 2024), Rocket Racer is a highly competitive racing game. You, the racer, will live in the not-too-distant future when an enigmatic chemical upsets the established power dynamic. Your objective is to achieve victory or defeat.
                     </div>
                   </div>
                 </div>
@@ -1508,7 +1499,7 @@ export default {
                 </div>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
                   <a
-                    href="https://go.radon.gg/wp"
+                    href="https://rocket-racer.gitbook.io/wiki-rocket-racer/"
                     target="_blank"
                     class="mt-12 mx-auto inline-block"
                     rel="noreferrer"
@@ -1843,13 +1834,7 @@ export default {
                     class="text-[1.6rem] font-medium tablet:leading-[1.18] tablet:text-base my-4 mx-auto phone:my-2"
                   >
                     <div class="">
-                      Our creator ecosystem enables players to express
-                      themselves, truly own their game assets, and shape the
-                      future look and feel of SHRAPNEL. From Callsigns and
-                      Insignia today, to Skin and Map creation and more tomorrow
-                      – these tools are purpose-built to empower you to express
-                      your SHRAPNEL identity, connect with community, and
-                      monetize game assets you truly own.
+                      With our creative ecosystem, players can show their individuality, take pride in their in-game assets, and influence how RR will seem in the future. Whether you're just starting out or want to create skins, maps, and more in the future, these tools are designed to let you express your Rocket Racer personality, interact with other players, and make money from your in-game assets.
                     </div>
                   </div>
                 </div>
@@ -2082,7 +2067,7 @@ export default {
                   data-name="Heading"
                   class="text-6xl font-black mb-6 uppercase tablet:w-full tablet:text-[2rem] phone:mb-2"
                 >
-                  SHRAP TOKEN
+                  RG TOKEN
                 </h2>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
                   <div
@@ -2091,9 +2076,8 @@ export default {
                   >
                     <div class="">
                       <p>
-                        At the heart of the Shrapnel economy is the SHRAP token,
-                        providing utility and the medium of exchange on the
-                        Shrapnel platform.
+
+                        In the Rocket economy, the RG token serves as both a means of exchange and a utility token on the RG platform.
                       </p>
                     </div>
                   </div>
@@ -2233,7 +2217,7 @@ export default {
                         <p
                           class="m-auto text-black text-semibold text-[1.625rem] tablet:text-base pointer-events-none pt-1"
                         >
-                          LEARN MORE<span class="hidden p-2 relative bottom-0.5"
+                          COMMING S00N<span class="hidden p-2 relative bottom-0.5"
                             ><span
                               style="
                                 box-sizing: border-box;
@@ -2426,7 +2410,7 @@ export default {
                   data-name="Heading"
                   class="text-6xl font-black mb-6 uppercase tablet:w-full tablet:text-[2rem] phone:mb-2"
                 >
-                  FUELED BY AAA TALENT
+                  Grounded by the skill of Golden Sea Studio
                 </h2>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
                   <div
@@ -2434,21 +2418,14 @@ export default {
                     class="text-[1.6rem] font-medium tablet:leading-[1.18] tablet:text-base my-4 mx-auto phone:my-2"
                   >
                     <div class="">
-                      The SHRAPNEL team brings unmatched experience in
-                      blockbuster games, transmedia, virtual production,
-                      gaming-as-a-service, and core platform technology to this
-                      groundbreaking project. We have worked on some of the
-                      biggest titles in the industry – Halo, Call of Duty, Star
-                      Wars, Bioshock, Ghost of Tsushima and many more.
+                      This revolutionary project will benefit from the GOLDEN team's unparalleled expertise in racing games, transmedia, virtual production, gaming as a service, and platform technology
                     </div>
                   </div>
                 </div>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
-                  <a
-                    href="/team"
-                    target=""
+                  <router-link
+                    to="/team"
                     class="mt-12 mx-auto inline-block"
-                    rel="noreferrer"
                     ><div
                       data-name="ButtonCustom"
                       class="relative cursor-pointer w-fit items-center"
@@ -2646,7 +2623,7 @@ export default {
                           ></span>
                         </p>
                       </div></div
-                  ></a>
+                  ></router-link>
                 </div>
               </div>
             </div>
@@ -3269,62 +3246,7 @@ export default {
                         </div>
                       </div>
                     </div>
-                    <div class="p-4 !w-auto" style="width: 50%">
-                      <div class="css-1c2fuzs" style="animation-delay: 0ms">
-                        <div class="mt-3 w-[450px] laptop:!w-80">
-                          <div
-                            class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_big__Wa_Gp border-black BoxCustom_blackBox__nb__W"
-                          >
-                            <div
-                              data-name="MasonryImages"
-                              class="w-full relative my-8 break-words text-center"
-                            >
-                              <div class="h-full px-[5%] tablet:px-0">
-                                <h4
-                                  class="px-4 py-1 desktop:text-4xl laptop:text-3xl tablet:text-2xl mobile:text-xl font-extrabold uppercase"
-                                >
-                                  DROPS
-                                </h4>
-                                <p
-                                  class="px-4 py-1 font-medium tablet:leading-[1.18] desktop:text-2xl laptop:text-xl tablet:text-base mobile:text-lg"
-                                >
-                                  Airdropped comic book for each Operator you
-                                  collect, once their book is finished.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="css-1c2fuzs" style="animation-delay: 0ms">
-                        <div class="mt-3 w-[450px] laptop:!w-80">
-                          <div
-                            class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_big__Wa_Gp border-black BoxCustom_blackBox__nb__W"
-                          >
-                            <div
-                              data-name="MasonryImages"
-                              class="w-full relative my-8 break-words text-center"
-                            >
-                              <div class="h-full px-[5%] tablet:px-0">
-                                <h4
-                                  class="px-4 py-1 desktop:text-4xl laptop:text-3xl tablet:text-2xl mobile:text-xl font-extrabold uppercase"
-                                >
-                                  RARITY
-                                </h4>
-                                <p
-                                  class="px-4 py-1 font-medium tablet:leading-[1.18] desktop:text-2xl laptop:text-xl tablet:text-base mobile:text-lg"
-                                >
-                                  Collectors of Legendary, Epic, and Rare
-                                  Operators will get unique airdrops and
-                                  additional access beyond those of Common
-                                  Operators.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+
                   </div>
                 </div>
                 <div class="css-1c2fuzs" style="animation-delay: 0ms">
@@ -3404,26 +3326,7 @@ export default {
                       padding: 60.3814% 0px 0px;
                     "
                   ></span
-                  ><img
-                    alt="MEF logo"
-                    src="https://neon-shrapnel-nextjs-dev-service-bucket.s3.us-west-2.amazonaws.com/content-files/2022-03/test-0.webp"
-                    decoding="async"
-                    data-nimg="responsive"
-                    style="
-                      position: absolute;
-                      inset: 0px;
-                      box-sizing: border-box;
-                      padding: 0px;
-                      border: none;
-                      margin: auto;
-                      display: block;
-                      width: 0px;
-                      height: 0px;
-                      min-width: 100%;
-                      max-width: 100%;
-                      min-height: 100%;
-                      max-height: 100%;
-                    " /><noscript></noscript></span
+                  ><noscript></noscript></span
               ></a>
             </div>
             <h2
@@ -3440,22 +3343,17 @@ export default {
                 <div class="">
                   <p>
                     <span
-                      >Be a part of our growing community – on Discord, Twitter
-                      and email. Stay informed on every development of the game,
-                      creator tools, and other releases.
+                      >Join us on Discord, Twitter, and email to become a part of our expanding community. Keep up with the latest news on the game's progress, creator tools, and any additional releases.
                     </span>
                   </p>
                   <p>
                     <br /><span
-                      >We do frequent AMAs, blog posts, press releases and other
-                      updates. It’s a community dialog – make requests and have
-                      conversations directly with SHRAPNEL team members.
+                      >A lot of updates, including blog articles, press releases, and AMAs, happen often. You may have direct interactions with Rocket team members and submit requests using this community dialog.
                     </span>
                   </p>
                   <p>
                     <br /><span
-                      >Be the first to know about new contests, voting
-                      opportunities, and other rewards. Sign up today.</span
+                      >   Get the inside scoop on upcoming competitions, polls, and prizes before anyone else. Become a member now....</span
                     >
                   </p>
                 </div>
@@ -5569,961 +5467,6 @@ export default {
                 </div>
               </div></div
           ></a>
-        </div>
-      </section>
-      <section data-name="layout_onecol" class="w-full">
-        <div
-          data-name="Faq"
-          class="bg-white-jobBoxHover w-full flex flex-col justify-center items-center text-center py-32 tablet:py-20 faq-block"
-        >
-          <h2
-            data-name="Heading"
-            class="text-6xl font-black mb-6 tablet:w-full tablet:text-[2rem] phone:mb-2"
-          >
-            FAQs
-          </h2>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      What is SHRAPNEL?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      What is SHRAPNEL Studio?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      What technology is core to SHRAPNEL?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      Is there a early access list for the token?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      How can I contact the SHRAPNEL team?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div data-name="FaqItem" class="relative w-3/5 tablet:w-10/12 my-1">
-            <div class="main-element">
-              <div
-                class="relative py-3 px-2 tablet:py-[0.813rem] BoxCustom_borderCustomBox__XQD6n BoxCustom_normal__LHrFd border-black BoxCustom_blackBox__nb__W"
-              >
-                <div
-                  class="flex flex-col px-5 text-left w-full FaqItem_faqItemBoxCustom__tYPCe"
-                >
-                  <div
-                    class="text-2xl tablet:text-[0.875rem] tablet:leading-[0.938rem] w-full text-black flex justify-between items-center cursor-pointer"
-                  >
-                    <p
-                      class="font-semibold text-[1.6rem] tablet:leading-[0.938rem] w-5/6 tablet:text-base"
-                    >
-                      What is an Operator?
-                    </p>
-                    <div class="tablet:hidden FaqItem_faqItemBoxChevron__S380F">
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2725%27%20height=%2725%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="https://www.shrapnel.com/_next/static/media/chevron.50b3f584.svg"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                    <div
-                      class="hidden tablet:block FaqItem_faqItemBoxChevron__S380F"
-                    >
-                      <span
-                        style="
-                          box-sizing: border-box;
-                          display: inline-block;
-                          overflow: hidden;
-                          width: initial;
-                          height: initial;
-                          background: none;
-                          opacity: 1;
-                          border: 0px;
-                          margin: 0px;
-                          padding: 0px;
-                          position: relative;
-                          max-width: 100%;
-                        "
-                        ><span
-                          style="
-                            box-sizing: border-box;
-                            display: block;
-                            width: initial;
-                            height: initial;
-                            background: none;
-                            opacity: 1;
-                            border: 0px;
-                            margin: 0px;
-                            padding: 0px;
-                            max-width: 100%;
-                          "
-                          ><img
-                            alt=""
-                            aria-hidden="true"
-                            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2720%27%20height=%2720%27/%3e"
-                            style="
-                              display: block;
-                              max-width: 100%;
-                              width: initial;
-                              height: initial;
-                              background: none;
-                              opacity: 1;
-                              border: 0px;
-                              margin: 0px;
-                              padding: 0px;
-                            " /></span
-                        ><img
-                          alt="chevron"
-                          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-                          decoding="async"
-                          data-nimg="intrinsic"
-                          class="rotate-0"
-                          style="
-                            position: absolute;
-                            inset: 0px;
-                            box-sizing: border-box;
-                            padding: 0px;
-                            border: none;
-                            margin: auto;
-                            display: block;
-                            width: 0px;
-                            height: 0px;
-                            min-width: 100%;
-                            max-width: 100%;
-                            min-height: 100%;
-                            max-height: 100%;
-                          " /><noscript></noscript
-                      ></span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </section>
     </div>
