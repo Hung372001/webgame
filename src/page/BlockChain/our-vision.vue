@@ -285,7 +285,7 @@ export default {
                     "
                     ><img
                       alt="Open Sigma Containment Unit"
-                      src="https://neon-shrapnel-nextjs-dev-service-bucket.s3.us-west-2.amazonaws.com/content-files/2022-03/open-sigma-containment-unit.webp"
+                      src="/1.png"
                       decoding="async"
                       data-nimg="fill"
                       style="

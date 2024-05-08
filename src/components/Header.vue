@@ -204,7 +204,7 @@ export default {
                             class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                             data-content="Comm Center"
                             href="/comm-center"
-                            target=""
+
                         ><span class=""> Discord Channel </span></a
                         >
                       </div>
@@ -240,7 +240,6 @@ export default {
                         <router-link
                             class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-sm font-semibold hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                             to="/studio"
-                            target=""
                         ><span class="">Studio</span></router-link
                         >
                       </div>
@@ -270,7 +269,6 @@ export default {
               <router-link
                   class="glitchEffetText relative no-underline uppercase block mt-0 tracking-normal text-lg laptop:text-sm font-extrabold mt-1 mx-5 top-0 laptop:top-1 whitespace-nowrap hover:text-orange focus:text-dark-orange hover:orange-filter text-white-f2"
                   to="/careers"
-                  target=""
               ><span class="">Careers</span></router-link
               >
             </div>

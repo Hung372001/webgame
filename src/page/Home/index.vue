@@ -1193,7 +1193,7 @@ export default {
                     "
                     ><img
                       alt="Stacked Callsign Panels"
-                      src="https://neon-shrapnel-nextjs-prod-service-bucket.s3.us-west-2.amazonaws.com/content-files/pictures/dotcom_Callsign_graphic.png"
+                      src="/2.png"
                       decoding="async"
                       data-nimg="fill"
                       style="
@@ -1731,7 +1731,7 @@ export default {
                     "
                     ><img
                       alt="Squad of 2 MEF Operators armed with weapons"
-                      src="https://neon-shrapnel-nextjs-dev-service-bucket.s3.us-west-2.amazonaws.com/content-files/2022-04/squad-of-2-MEF-Operators-armed-with-weapons.webp"
+                      src="/3.jpg"
                       decoding="async"
                       data-nimg="fill"
                       style="
@@ -1786,7 +1786,7 @@ export default {
                     "
                     ><img
                       alt="Sigma Containment Unit aka Rabbits Foot"
-                      src="https://neon-shrapnel-nextjs-dev-service-bucket.s3.us-west-2.amazonaws.com/content-files/2022-03/sigma-contrainment-unit.webp"
+                      src="/4.png"
                       decoding="async"
                       data-nimg="fill"
                       style="
@@ -2315,7 +2315,7 @@ export default {
                     "
                     ><img
                       alt="SHRAP TOKEN"
-                      src="https://images.ctfassets.net/y4nqqthfnpv2/20Mvll2zvp2f6HIAaQtroV/35b27aba531f9b1de712087e1adfec2d/shrap-token-2.webp"
+                      src="/5.png"
                       decoding="async"
                       data-nimg="fill"
                       style="
@@ -2370,7 +2370,7 @@ export default {
                     "
                     ><img
                       alt="Squad of 2 MEF Operators standing guard"
-                      src="https://neon-shrapnel-nextjs-dev-service-bucket.s3.us-west-2.amazonaws.com/content-files/2022-04/squad-of-2-mef-operators-standing-guard.webp"
+                      src="/6.png"
                       decoding="async"
                       data-nimg="fill"
                       style="
